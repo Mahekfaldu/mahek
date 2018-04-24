@@ -5,7 +5,7 @@ div {
   position: absolute;
   width: 100%;
   height: 100%;
-  background: url('img.jpg');
+  background: url('https://mahekfaldu.github.io/mahek/img.jpg');
   background-size:cover;
 }
 canvas {
